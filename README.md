@@ -84,3 +84,4 @@ import {Runtime, Inspector} from "@observablehq/runtime";
 import define from "dbd2e89e6a968b57";
 ~~~
 
+LinkedIn: https://www.linkedin.com/in/chandni-sathish-kumar/
